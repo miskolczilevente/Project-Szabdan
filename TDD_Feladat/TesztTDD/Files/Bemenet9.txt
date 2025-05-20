@@ -1,7 +1,0 @@
-5
-4
-C X X X X
-X X X X X
-X X X X X
-X X X X X
-X X X X X
